@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+MDX_DECK_VERSION=$(cat etc/MDX_DECK_VERSION) make build

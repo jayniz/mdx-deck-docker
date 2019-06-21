@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "@jannis/mdx-deck-docker",
+  "version": "MDX_DECK_VERSION",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    "help": "mdx-deck"
+  },
+  "devDependencies": {
+    "mdx-deck": "^MDX_DECK_VERSION"
+  }
+}
